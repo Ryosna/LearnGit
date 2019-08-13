@@ -8,7 +8,7 @@ cd (directory name) <br>
 mkdir (directory name) <br>
 -make directory, creates folder <br>
 code .<br>
--opens the current directory
+-opens the current directory <br>
 
 ## git
 status <br>
